@@ -51,7 +51,7 @@ import math as m
 # import os
 
 # # Define the file path
-# file_name = "tarmooz.txt"  #keep a file ready for this
+# file_name = "mango.txt"  #keep a file ready for this
 
 # # Use os.path to construct the full path (if needed)
 # file_path = os.path.join(os.getcwd(), file_name)
